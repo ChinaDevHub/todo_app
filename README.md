@@ -1,4 +1,4 @@
-# todo_app
+# TODO_APP
 
 A new Flutter project.
 
@@ -8,9 +8,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Splash Page](screenshots/todo_app_ui/splash_page.png)
+![Sign In Page](screenshots/todo_app_ui/sign_in_page.png)
+![Sign Up Page](screenshots/todo_app_ui/sign_up_page.png)
+![Last Page](screenshots/todo_app_ui/last_page.png)
