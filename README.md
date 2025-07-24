@@ -15,10 +15,22 @@ Organize your day by adding, completing, and deleting tasks with ease.
 ---
 ## 📱 Screenshots
 
+
+## 📸 UI Preview
+
+### 📝 Splash / Welcome Screen  
 ![Splash Page](screenshots/todo_app_ui/splash_page.png)
+
+### 🔐 Sign In Screen  
 ![Sign In Page](screenshots/todo_app_ui/sign_in_page.png)
+
+### 🆕 Sign Up Screen  
 ![Sign Up Page](screenshots/todo_app_ui/sign_up_page.png)
+
+### 🔐 Last Page Screen  
 ![Last Page](screenshots/todo_app_ui/last_page.png)
+
+
 
 ## 🛠️ Technologies Used
 
